@@ -2,5 +2,5 @@ return {
     ["Test"] = 4483381587,
     ["Weaponry"] = 3297964905,
     ["Pistol-1v1"] = 6722284015,
-    ["King%20Legacy"] = 4520749081 -- 
+    ["King Legacy"] = 4520749081
 };
