@@ -5,7 +5,7 @@ end
 local Tick = tick();
 
 
-local rconsolelog = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/yPolar7/Custom-Lua-Functions/main/Functions/rconsolelog.lua"))();
+local rconsolelog = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/yPolar7/Project/main/Custom%20Lua%20Functions/rconsolelog.lua?token=GHSAT0AAAAAAB3NA37HMO4XVNN6E2RO5WVUZA2KLXA"))();
 local filtergc = filtergc or loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/yPolar7/Project/main/Handlers/Filtergc.lua"))();
 
 rconsolelog = function(x, y)
