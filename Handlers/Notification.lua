@@ -1,5 +1,5 @@
 local LoadHandler = loadstring(game:HttpGet(("https://github.com/yPolar0/Project/blob/main/Handlers/Load%Handler.lua?raw=true")))();
-local CreateUI = LoadHandler("CreateUI");
+local CreateUI = loadstring(game:HttpGet(("https://raw.githubusercontent.com/yPolar0/Project/main/Handlers/CreateUI.lua")))();
 local Library = CreateUI.Library;
 
 local Exploit = identifyexecutor and table.concat({identifyexecutor()}, " ") or "Unknown";
