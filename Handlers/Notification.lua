@@ -1,4 +1,4 @@
-local LoadHandler = loadstring(game:HttpGet(("https://github.com/yPolar0/Project/blob/main/Handlers/Load%Handler.lua?raw=true")))();
+local LoadHandler = loadstring(game:HttpGet(("https://github.com/yPolar0/Project/blob/main/Handlers/LoadHandler.lua?raw=true")))();
 local CreateUI = loadstring(game:HttpGet(("https://raw.githubusercontent.com/yPolar0/Project/main/Handlers/CreateUI.lua")))();
 local Library = CreateUI.Library;
 
