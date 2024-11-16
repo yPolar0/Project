@@ -1,7 +1,8 @@
 {
     "version": "V3.2.16.0",
     "games": {
-        "aherodestiny": [6461766546]
+        "aherodestiny": [6461766546],
+        "petsgo": [18901165922]  
     },
     "systems": {
         "configs": "1.0.0.1",
